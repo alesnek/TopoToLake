@@ -26,7 +26,6 @@ After running the tool, open the classified rasters and visually identify which 
 - Not all outputs will contain 6 classes — results depend on the input map's color scheme.
 - You may need to adjust the number of classes, minimum class size, or sample interval to suit your study area.
 
----
 
 ### 2. `CreateLakePolygons.py` — *Step 2: Create Lake Polygons*
 
@@ -90,6 +89,6 @@ Queens College, City University of New York
 
 ---
 
-## 📜 License
+## License
 
 [MIT License](LICENSE) — free to use, modify, and share with attribution.
