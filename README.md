@@ -2,7 +2,7 @@
  
 **TopoToLake** is a pair of ArcGIS Pro script tools that extract water features from historical USGS topographic map rasters using unsupervised classification. The tools are designed to work together to automate lake mapping from scanned maps, particularly where traditional vector water data may be missing or outdated.
 
-Developed by [Dr. Alia Lesnek](https://www.qc.cuny.edu/academics/sees/alia-lesnek/) at CUNY Queens College, these tools are ideal for environmental research, historical hydrology studies, and digitizing legacy water features.
+Developed by [Dr. Alia Lesnek](https://www.qc.cuny.edu/academics/sees/alia-lesnek/) at CUNY Queens College, these tools are ideal for reserach in historical hydrology and environmental science.
 
 ---
 
