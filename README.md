@@ -6,7 +6,7 @@ Developed by [Dr. Alia Lesnek](https://www.qc.cuny.edu/academics/sees/alia-lesne
 
 ---
 
-## 🧰 Tools Included
+## Tools Included
 
 ### 1. `IsoClass.py` — *Step 1: Classify Topographic Maps*
 
@@ -46,7 +46,7 @@ Add the output polygons to your map manually. Review and clean up the polygons t
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - ArcGIS Pro 3.x
 - Spatial Analyst extension
@@ -54,7 +54,7 @@ Add the output polygons to your map manually. Review and clean up the polygons t
 
 ---
 
-## 📁 Project Structure
+## Project Structure
  ```
 TopoToLake/
  ├── README.md
@@ -67,7 +67,7 @@ TopoToLake/
 
 ---
 
-## 👩‍💻 Workflow
+## Workflow
 
 1. Download USGS topographic maps and add them to a single geodatabase in your ArcGIS Pro project.
 2. Add `TopoToLake.atbx` to your ArcGIS Pro project.
@@ -77,12 +77,11 @@ TopoToLake/
 
 ---
 
-🚫 This repository is provided for reference and download only.
-**Please do not submit pull requests**. If you'd like to modify the tools, feel free to fork your own copy.
+🚫 This repository is provided for reference and download only. **Please do not submit pull requests**.
 
 ---
 
-## 👩‍🔬 Author
+## Author
 
 **Dr. Alia Lesnek**  
 School of Earth and Environmental Sciences  
