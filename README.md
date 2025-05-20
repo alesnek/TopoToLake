@@ -78,7 +78,7 @@ TopoToLake/
 ---
 
 🚫 This repository is provided for reference and download only.
-Please **do not submit pull requests or issues**. If you'd like to modify the tools, feel free to fork your own copy.
+Please **do not submit pull requests**. If you'd like to modify the tools, feel free to fork your own copy.
 
 ---
 
