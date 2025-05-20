@@ -55,12 +55,38 @@ Add the output polygons to your map manually. Review and clean up the polygons t
 ---
 
 ## 📁 Project Structure
-# TopoToLake/
-# ├── README.md
-# ├── LICENSE
-# ├── tools/
-# │ ├── LakeMapping.atbx # ArcGIS Pro toolbox
-# │ ├── IsoClass.py # Script for classification
-# │ ├── CreateLakePolygons.py # Script for lake polygon creation
-# ├── data/ # Example dataset
+ ```
+TopoToLake/
+ ├── README.md
+ ├── LICENSE
+ ├── tools/
+ │ ├── LakeMapping.atbx # ArcGIS Pro toolbox
+ │ ├── IsoClass.py # Script for classification
+ │ ├── CreateLakePolygons.py # Script for lake polygon creation
+ ├── data/ # Example dataset
+ ```
 
+---
+
+## 👩‍💻 Workflow
+
+1. Download USGS topographic maps and add them to a single geodatabase in your ArcGIS Pro project (or work with the example data).
+2. Add `TopoToLake.atbx` to your ArcGIS Pro project.
+3. Run **Step 1: Classify Topographic Maps** to classify your topographic maps.
+4. Open the resulting classified rasters and manually populate the `water_class` column in `classified_rasters.csv`.
+5. Run **Step 2: Create Lake Polygons** to extract vector lake features using the completed CSV.
+
+---
+
+## 👩‍🔬 Author
+
+**Dr. Alia Lesnek**  
+School of Earth and Environmental Sciences  
+Queens College, City University of New York  
+© 2025
+
+---
+
+## 📜 License
+
+[MIT License](LICENSE) — free to use, modify, and share with attribution.
