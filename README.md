@@ -55,12 +55,12 @@ Add the output polygons to your map manually. Review and clean up the polygons t
 ---
 
 ## 📁 Project Structure
-TopoToLake/
-├── README.md
-├── LICENSE
-├── tools/
-│ ├── LakeMapping.atbx # ArcGIS Pro toolbox
-│ ├── IsoClass.py # Script for classification
-│ ├── CreateLakePolygons.py # Script for lake polygon creation
-├── data/ # Example dataset
+# TopoToLake/
+# ├── README.md
+# ├── LICENSE
+# ├── tools/
+# │ ├── LakeMapping.atbx # ArcGIS Pro toolbox
+# │ ├── IsoClass.py # Script for classification
+# │ ├── CreateLakePolygons.py # Script for lake polygon creation
+# ├── data/ # Example dataset
 
